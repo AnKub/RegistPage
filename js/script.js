@@ -1,8 +1,8 @@
-'use strict'
+// 'use strict'
 
-// add class when page loaded
+// // add class when page loaded
 
-window.addEventListener('load', ()=>{
-  document.documentElement.classList.add('loaded');
-})
+// window.addEventListener('load', ()=>{
+//   document.documentElement.classList.add('loaded');
+// })
 
